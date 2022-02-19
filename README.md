@@ -49,7 +49,7 @@ ratings table
 ![main](Resources/ratings_query.png)
 
 
-Below are the files for the Updated analysis on Movies data. 
+Updated analysis files on Movies data. 
 
 [ETL_function_test.ipynb](ETL_function_test.ipynb)
 
@@ -58,4 +58,6 @@ Below are the files for the Updated analysis on Movies data.
 [ETL_clean_kaggle_data.ipynb](ETL_clean_kaggle_data.ipynb)
 
 [ETL_create_database.ipynb](ETL_create_database.ipynb)
+
+[Resources](Resources)
 
